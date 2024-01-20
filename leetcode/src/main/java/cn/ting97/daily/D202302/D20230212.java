@@ -1,4 +1,4 @@
-package cn.ting97.daily;
+package cn.ting97.daily.D202302;
 
 /**
  * @Classname D20230212
@@ -43,8 +43,5 @@ public class D20230212 {
         return ans.toString();
     }
 
-    public static void main(String[] args) {
-        D20230212 d20230212 = new D20230212();
-        System.out.println("d20230212.alphabetBoardPath(\"apple\") = " + d20230212.alphabetBoardPath("apple"));
-    }
+
 }

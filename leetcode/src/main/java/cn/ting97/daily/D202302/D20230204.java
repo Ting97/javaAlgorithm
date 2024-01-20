@@ -1,4 +1,4 @@
-package cn.ting97.daily;
+package cn.ting97.daily.D202302;
 
 import java.util.Arrays;
 
@@ -28,8 +28,4 @@ public class D20230204 {
         return ans;
     }
 
-    public static void main(String[] args) {
-        int ans = new D20230204().getMaximumConsecutive(new int[]{1, 3});
-        System.out.println("ans = " + ans);
-    }
 }

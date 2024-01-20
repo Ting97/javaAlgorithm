@@ -1,4 +1,4 @@
-package cn.ting97.daily;
+package cn.ting97.daily.D202302;
 
 import java.util.Arrays;
 
@@ -36,9 +36,4 @@ public class D20230211 {
         return (amount[0] + amount[1] + amount[2] + 1) / 2;
     }
 
-    public static void main(String[] args) {
-        D20230211 d20230211 = new D20230211();
-        System.out.println("d20230211.fillCups1(new int[]{1, 2, 3}) = " + d20230211.fillCups1(new int[]{1, 2, 3}));
-        System.out.println("d20230211.fillCups2(new int[]{1, 2, 3}) = " + d20230211.fillCups2(new int[]{1, 2, 3}));
-    }
 }

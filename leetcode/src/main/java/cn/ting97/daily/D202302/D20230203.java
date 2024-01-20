@@ -1,4 +1,4 @@
-package cn.ting97.daily;
+package cn.ting97.daily.D202302;
 
 /**
  * @Classname D20230203
